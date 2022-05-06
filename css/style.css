@@ -1,5 +1,5 @@
 /**
-* Template Name: Personal - v4.6.0
+* Template Name: Personal - v4.7.0
 * Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
@@ -957,10 +957,6 @@ section .container {
 }
 .contact .php-email-form input:focus, .contact .php-email-form textarea:focus {
   background-color: rgba(255, 255, 255, 0.11);
-}
-.contact .php-email-form input::-webkit-input-placeholder, .contact .php-email-form textarea::-webkit-input-placeholder {
-  color: rgba(255, 255, 255, 0.3);
-  opacity: 1;
 }
 .contact .php-email-form input::-moz-placeholder, .contact .php-email-form textarea::-moz-placeholder {
   color: rgba(255, 255, 255, 0.3);
